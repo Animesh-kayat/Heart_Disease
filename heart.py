@@ -55,7 +55,7 @@ with st.sidebar:
         This app uses a machine learning model to predict the **likelihood of heart disease** 
         based on patient medical attributes.
     """)
-    st.write("Developed by **Ashutosh**")
+    st.write("Developed by **Animesh**")
 
 # Input fields
 def user_input():
